@@ -1,0 +1,5 @@
+{
+  "name": "AI BizCard Maker",
+  "description": "AI-powered business card generator. Create professional designs manually or generate concepts from a simple description using Gemini API.",
+  "requestFramePermissions": []
+}
